@@ -1,17 +1,9 @@
 {
-  "generated": "2026-06-28T13:15:22.092Z",
+  "generated": "2026-06-29T14:22:27.962Z",
   "files": {
     "lite_assets/100%25_Outrider_Icon.jpeg": {
       "hash": "bb996d9e6f85c6fa5a37b5e2ba702954c7d02e23fc3c445a5f9132f3120b04f2",
       "size": 8937
-    },
-    "lite_assets/1e1fb31dad9844f41bda3b5a9cd46aa9_5716772109302376596.jpeg": {
-      "hash": "70d93e2460ba8e9e225223c8ebfef9824e12b13b3a308e33c1cd8365c8ad620b",
-      "size": 13781
-    },
-    "lite_assets/8004694a42dd767b34040d08bedef68d_964321560171018179.jpeg": {
-      "hash": "f0ec90ccf0b18478ff8996c87e31cfa64d7f09b75903fd13053f8784a296370f",
-      "size": 31175
     },
     "lite_assets/A_Sobriquet_Under_Shade_Icon.jpeg": {
       "hash": "4215361e651eb4371e6f54d939b964006dae470d2e74bc367deceb92058550c8",
@@ -2741,6 +2733,14 @@
       "hash": "87d2022446fb0c43934edb8f809fce9905851079b2636aa7a77575f64ea2d735",
       "size": 169035
     },
+    "lite_assets/UI_Costume_CharlotteCostumeDong.webp": {
+      "hash": "84b8d078b889a4427fd34eda4d2ddba641b605791d696cbf745b1c54b15dc48c",
+      "size": 253870
+    },
+    "lite_assets/UI_Costume_CitlaliCostumeXia.webp": {
+      "hash": "eccb53e6a088e13ebdff347c1908d1514460be3ec7ac7f317974a42d90788464",
+      "size": 353200
+    },
     "lite_assets/UI_Costume_DilucCostumeFlamme.jpeg": {
       "hash": "dd680e9739dbc095ee497c11b4271fc4b27dfa3d02022f22f153585cee758918",
       "size": 211692
@@ -4857,6 +4857,10 @@
       "hash": "099951674372d1bc870ae4c3bcedc0583d64c510149856dee3751cc9b4f6fa2e",
       "size": 21741
     },
+    "lite_assets/UI_Gacha_EquipIcon_Claymore_Super_Awesome_Magic_Key.jpeg": {
+      "hash": "f0ec90ccf0b18478ff8996c87e31cfa64d7f09b75903fd13053f8784a296370f",
+      "size": 31175
+    },
     "lite_assets/UI_Gacha_EquipIcon_Claymore_Theocrat.jpeg": {
       "hash": "b2cedeab9bbd291438faeaa6586e58f914c56830280ecc12245693c12ff27135",
       "size": 24253
@@ -6444,6 +6448,10 @@
     "lite_assets/UI_ItemIcon_108879.jpeg": {
       "hash": "7ad14875523d1f1c59f1936ab450f837e1b43e5111816cc10d06670e46a84d9a",
       "size": 11738
+    },
+    "lite_assets/UI_ItemIcon_108880.webp": {
+      "hash": "9ce8192d79bc27ece35396f18ec60aaedc75eba2abd40f5f1ede59c23841deb5",
+      "size": 28720
     },
     "lite_assets/UI_ItemIcon_112002.jpeg": {
       "hash": "47d55e87716bf7b79b87fedecb85e0cc6fa246cbb353fc479ff392ed52be7258",
@@ -13812,6 +13820,10 @@
     "lite_assets/UI_Talent_U_Zibai_02.jpeg": {
       "hash": "4d6b1c2815251c7e0f174a41adb3d46b00bd7d547fcc55ec855483de0bd408c1",
       "size": 2176
+    },
+    "lite_assets/Weapon_Appearance_Super_Awesome_Magic_Key.jpeg": {
+      "hash": "ed169879f904a373e74da65c87a294286b2d0c33a990e0031eafc0c9a315c0ec",
+      "size": 11852
     },
     "lite_assets/Web_icon_cocogoat.jpeg": {
       "hash": "8ed023605f0fdee2fbb7f30c5ef82cdb7945f0566e9b1502aec31edb98d05073",
