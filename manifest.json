@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-29T15:42:35.730Z",
+  "generated": "2026-07-01T07:31:16.372Z",
   "files": {
     "lite_assets/100%25_Outrider_Icon.jpeg": {
       "hash": "bb996d9e6f85c6fa5a37b5e2ba702954c7d02e23fc3c445a5f9132f3120b04f2",
@@ -737,6 +737,14 @@
       "hash": "c7895a4db6aa191548ba57bc19033705c9b40a5d0d205fe8e7f975689b49be53",
       "size": 389300
     },
+    "lite_assets/Gacha_6.7_01_01.jpg": {
+      "hash": "8c7f3e78c405e851fe7356b3242dd48ad7ba3eda6363c6e1c0c20a87165b8b0c",
+      "size": 358342
+    },
+    "lite_assets/Gacha_6.7_01_02.jpg": {
+      "hash": "79d22f4328ee8609e626c94dbc08c9c943ec2769f04d2306661430ba2b3428ba",
+      "size": 363294
+    },
     "lite_assets/Gacha_Compilation_5.3_02_01.png.jpeg": {
       "hash": "7e947a1beca974573938d375297093a0156ff5d6310f0bb664f72e02835987f4",
       "size": 36328
@@ -757,9 +765,9 @@
       "hash": "1e81b5a1faff061ae3f80d2800fd057e28fa3cd9316e9f05402b0ed3c38dd0a1",
       "size": 43178
     },
-    "lite_assets/Gacha_Compilation_6.7_01_01.jpeg": {
-      "hash": "26e754970b678a817c1768e2ccd186c451613604f33e7222ef98a5550643983c",
-      "size": 76394
+    "lite_assets/Gacha_Compilation_6.7_01_01.jpg": {
+      "hash": "d5c4a2fda86fc4c0cdc0b71d52cdce86d3571cfe510c286225427f5b72776dc0",
+      "size": 67443
     },
     "lite_assets/Gacha_Standard_01.jpeg": {
       "hash": "a673c39795eec479ab93235416c3ab58af38c9ab1f23e1d27b15135370e53d8d",
@@ -1144,6 +1152,10 @@
     "lite_assets/Gacha_Weapon_6.6_02_01.jpg": {
       "hash": "f620e526c8b81a6494b0a647fa08b4ee8420bc251960648acffe623053faf52b",
       "size": 235099
+    },
+    "lite_assets/Gacha_Weapon_6.7_01_01.jpg": {
+      "hash": "666ccb8b957bb0a0e1d8dfa961a5084a00dba8e0f55e76502217f713d538f151",
+      "size": 234180
     },
     "lite_assets/Gunnhildr%27s_Legacy_Icon.jpeg": {
       "hash": "902b7cef514e7d8884733c07c77dfca5c9e4e38e4251862f4c7ecd52677c7a1a",
@@ -2733,9 +2745,17 @@
       "hash": "87d2022446fb0c43934edb8f809fce9905851079b2636aa7a77575f64ea2d735",
       "size": 169035
     },
+    "lite_assets/UI_Costume_CharlotteCostumeDong.jpeg": {
+      "hash": "de00df404ed1f884f9fb5b169bc00db17c4e4e80a3ac8f2eff85e31625b07f4c",
+      "size": 143674
+    },
     "lite_assets/UI_Costume_CharlotteCostumeDong.webp": {
       "hash": "84b8d078b889a4427fd34eda4d2ddba641b605791d696cbf745b1c54b15dc48c",
       "size": 253870
+    },
+    "lite_assets/UI_Costume_CitlaliCostumeXia.jpeg": {
+      "hash": "f5373f76e242a04ce96c5e399bec457092f741397984710f59b0247c0f615e38",
+      "size": 174853
     },
     "lite_assets/UI_Costume_CitlaliCostumeXia.webp": {
       "hash": "eccb53e6a088e13ebdff347c1908d1514460be3ec7ac7f317974a42d90788464",
@@ -6449,6 +6469,10 @@
       "hash": "7ad14875523d1f1c59f1936ab450f837e1b43e5111816cc10d06670e46a84d9a",
       "size": 11738
     },
+    "lite_assets/UI_ItemIcon_108880.jpeg": {
+      "hash": "b026f19f34b6b5a72f57d68931e77ce72e686f6e0d5239081b5d95031af7664d",
+      "size": 15411
+    },
     "lite_assets/UI_ItemIcon_108880.webp": {
       "hash": "9ce8192d79bc27ece35396f18ec60aaedc75eba2abd40f5f1ede59c23841deb5",
       "size": 28720
@@ -7372,6 +7396,14 @@
     "lite_assets/UI_ItemIcon_113087.jpeg": {
       "hash": "f62d9c6d490d1b833e2c7e3ed1d9f3e56b0e1d90504caa4318f8666d9739401b",
       "size": 8314
+    },
+    "lite_assets/UI_ItemIcon_113088.jpeg": {
+      "hash": "d9a66ba6d2bd0fcc2dd43bba6ca05aff80c7bf1e955d2a6fe1202d4dd7bd6bc6",
+      "size": 10182
+    },
+    "lite_assets/UI_ItemIcon_113089.jpeg": {
+      "hash": "f2185c18d9df2a9a9b26e14161da4e33a949b8f6cb20741e23be7982dde70484",
+      "size": 12490
     },
     "lite_assets/UI_ItemIcon_114001.jpeg": {
       "hash": "5565190f47544bffea8b129fec1ccaaa3a871b8af8ef4b40c865f6744e70bade",
@@ -11797,6 +11829,14 @@
       "hash": "0f23d89d41784eb96751bb4aba428cfb48e0eafb3265d301f17cd9b7bcda0179",
       "size": 1899
     },
+    "lite_assets/UI_Talent_S_PlayerElectric_07.jpeg": {
+      "hash": "70319b708b398caecea7ed2c539bf161426839f608206f2a63c573d7c3362393",
+      "size": 1795
+    },
+    "lite_assets/UI_Talent_S_PlayerElectric_07.webp": {
+      "hash": "0be3a640c53ba7f4c18dc30e3d15c38847322a83689c5cfa714d7317d2798740",
+      "size": 3468
+    },
     "lite_assets/UI_Talent_S_PlayerFire_01.jpeg": {
       "hash": "e68d8d9e3198c5c3fefe599222a6b729464be6ba68f9c606b04173b3f1463189",
       "size": 1838
@@ -11820,6 +11860,14 @@
     "lite_assets/UI_Talent_S_PlayerFire_06.jpeg": {
       "hash": "62ab7b1222f447dfcc6651ba99b58a3174261af169ee366bb8598ebb9f4692f2",
       "size": 1915
+    },
+    "lite_assets/UI_Talent_S_PlayerFire_07.jpeg": {
+      "hash": "43f79bbce5a1a20e64415874fd3490837f02bff78513c5602979347da653550f",
+      "size": 2154
+    },
+    "lite_assets/UI_Talent_S_PlayerFire_07.webp": {
+      "hash": "caafc8f4b00d123b5e7e04f8023634ed47fa55fc5ae17b923a34a2fbe22d3b3b",
+      "size": 5558
     },
     "lite_assets/UI_Talent_S_PlayerGrass_01.jpeg": {
       "hash": "07942747fc7527fe7d554c07588719c7380c3a3d9e9cf0fe4e8f794e98a2dfb5",
@@ -11869,6 +11917,14 @@
       "hash": "ebedff3372c35b1d9928de1bf0e224842f4f187696356a9a5f8a298c08ee7c15",
       "size": 1864
     },
+    "lite_assets/UI_Talent_S_PlayerRock_07.jpeg": {
+      "hash": "0900d4ccc7b64aecb3128a6e8b94958093c4fdad219636752255eeed48e3e7a7",
+      "size": 1796
+    },
+    "lite_assets/UI_Talent_S_PlayerRock_07.webp": {
+      "hash": "6f1b54fe38b520c5ab1624e351c48f4124fe45f3a0378dda0236689378811bb4",
+      "size": 3704
+    },
     "lite_assets/UI_Talent_S_PlayerWater_01.jpeg": {
       "hash": "901424c4e51c435667121d1de05b81e421e9fe5830f6d58e38eaba590f54dd9e",
       "size": 1995
@@ -11893,6 +11949,14 @@
       "hash": "803d3ae2ba573dc1e6d51c4f309147429b0ae4c95c6a2e621ba865353ed7ec04",
       "size": 1785
     },
+    "lite_assets/UI_Talent_S_PlayerWater_07.jpeg": {
+      "hash": "3a561c5f738bce9ce1f3754de9d15c48ba00ebc052081c68530cce552063801f",
+      "size": 1892
+    },
+    "lite_assets/UI_Talent_S_PlayerWater_07.webp": {
+      "hash": "3f6db86b96dfeb7576756b3ed5bea755f08d4d77a00c495d569c723b4fee7c11",
+      "size": 4112
+    },
     "lite_assets/UI_Talent_S_PlayerWind_01.jpeg": {
       "hash": "a71d3d0e402a68f88f7b09fc879cc9b898676156c47d518cdd9221e4efb1837a",
       "size": 1932
@@ -11916,6 +11980,14 @@
     "lite_assets/UI_Talent_S_PlayerWind_06.jpeg": {
       "hash": "6acac99c849cdcb157b220ed6dc875a4c4649d25c8365ba848a676a578b49b6b",
       "size": 1868
+    },
+    "lite_assets/UI_Talent_S_PlayerWind_07.jpeg": {
+      "hash": "974a1c1cfd85a7c39bef6b42187cf474971f474713edc50133578eae2de68bd8",
+      "size": 1740
+    },
+    "lite_assets/UI_Talent_S_PlayerWind_07.webp": {
+      "hash": "05a920cf1455f7aeed5cd245743944677ae965f8d94e90ac08f348a05b35f5e8",
+      "size": 3832
     },
     "lite_assets/UI_Talent_S_Prune_01.jpeg": {
       "hash": "f6008ca03cd915d7041606e4be5928d50594b9068b09516ee3b175f4d7b52502",
@@ -13525,6 +13597,14 @@
       "hash": "c76520424bd20707febdbc74dde685cc4f90483f79f6b5c7a6fa96b7f14feabb",
       "size": 1889
     },
+    "lite_assets/UI_Talent_U_PlayerGrass_03.jpeg": {
+      "hash": "cc90c85c8754e0efd33cdd7356e128506be4245390b419fa91b217a498eb1cb0",
+      "size": 1809
+    },
+    "lite_assets/UI_Talent_U_PlayerGrass_03.webp": {
+      "hash": "69d3bb2d9ed475a0d26f08871360ca85c2ffb8e8d4fe00678dbd6ede84fec77d",
+      "size": 3728
+    },
     "lite_assets/UI_Talent_U_PlayerRock_01.jpeg": {
       "hash": "0185f5543c0133d14e3c5a5aa714ccc17cecb69e58658f4e5e51664b38cd6a47",
       "size": 1698
@@ -13829,6 +13909,10 @@
       "hash": "8ed023605f0fdee2fbb7f30c5ef82cdb7945f0566e9b1502aec31edb98d05073",
       "size": 3051
     },
+    "lite_assets/Web_icon_fandom.jpeg": {
+      "hash": "243a5cdf58cac7c48419213548f3609afef25d5b6419ce5b59f0a8d7a9ed0e1e",
+      "size": 1941
+    },
     "lite_assets/Web_icon_genshin_dictionary.jpeg": {
       "hash": "2c1fb00954b037c5650021f58c457bf72db12cbaa90d8d9aa718ccca6b5e67b9",
       "size": 1850
@@ -13840,6 +13924,10 @@
     "lite_assets/Web_icon_gg_artifact.jpeg": {
       "hash": "47556152da25b153f9ecff624945bfc27a43d04e714260312cc026faf28fd848",
       "size": 12331
+    },
+    "lite_assets/Web_icon_mihoyo_bbs.jpeg": {
+      "hash": "1025650b5a85821f11b598f2854f592bab6877487865ae2d7535fafe2d90dd8e",
+      "size": 24405
     },
     "lite_assets/Web_icon_nanoka.jpeg": {
       "hash": "5df346259cbfa5fc6d40bf2c0787bc4af05af6e51a8bc5bf3e32ac484e029fba",
@@ -13853,6 +13941,10 @@
       "hash": "9bc269f19062edf9ac2a8d308e449b72a535e9bb992c4157f03d2c9c2d165469",
       "size": 311418
     },
+    "lite_assets/Web_img_fandom.jpeg": {
+      "hash": "b5d966c00070c327cb9785356f53c0ca8a0293ecd4c5e7afd5e8b71cb7a32384",
+      "size": 638065
+    },
     "lite_assets/Web_img_genshin_dictionary.jpeg": {
       "hash": "a1dedda9a3365e7ffbbd268f8d508944e634fe40798665432c160130ea72d48a",
       "size": 358510
@@ -13864,6 +13956,10 @@
     "lite_assets/Web_img_gg_artifact.jpeg": {
       "hash": "7af7f31108740be3a0854acdb91717aa87cca0ea556d82beb143320300ab134c",
       "size": 491301
+    },
+    "lite_assets/Web_img_mihoyo_bbs.jpeg": {
+      "hash": "63c211dc66eddae8dc21effc31c23e31cf9ed147443bd530774d8cf2a2d7a50a",
+      "size": 222649
     },
     "lite_assets/Web_img_nanoka.jpeg": {
       "hash": "c3f3bddfab05e76100f631d527508e95922d1bd284455f17fe15f2a114d6f0ad",
